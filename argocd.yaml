@@ -4,7 +4,7 @@ metadata:
   name: example-app
 spec:
   destination:
-    server: https://34.136.0.179
+    server: https://kubernetes.default.svc
     namespace: sample-ns
   project: default
   source:
